@@ -78,7 +78,7 @@ GOOGLE_API_KEY=your_api_key_here
 ## 🌐 Live Demo
 
 Access the deployed application:  
-[Open in Streamlit](https://lecture2exam.streamlit.app/)
+[Open in Streamlit](https://lecture2exam-ai-powered-assignment-generator.streamlit.app/)
 
 ---
 
