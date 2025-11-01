@@ -1,6 +1,6 @@
 # Lecture2Exam - AI-Powered Assessment Generator 🧠✨
 
-🔗 **Deployed Project:** [Live Streamlit App]()
+🔗 **Deployed Project:** [Live Streamlit App](https://lecture2exam-ai-powered-assignment-generator.streamlit.app/)
 
 Transform learning materials into intelligent exam questions using AI. Perfect for educators, students, and professionals!
 
