@@ -575,7 +575,7 @@ def main():
         <div class="footer">
             🧠 Lecture2Exam<br>
             Make learning more effective with AI-powered assessments ✨<br>
-            Made with teamwork of Shreyas, Shaurya and Mahati 🎯
+            Made with teamwork of Shaurya and Mahati 🎯
         </div>
         """, 
         unsafe_allow_html=True
